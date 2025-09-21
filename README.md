@@ -7,7 +7,8 @@ Java Development Kit (JDK): Version 17 or later
 IDE: Eclipse, IntelliJ IDEA, or VS Code with Java extensions
 
 How to Run-
-    1. Clone the Repository:
+    
+	1. Clone the Repository:
        git clone <your-repository-link>
        cd <repository-folder>
     
