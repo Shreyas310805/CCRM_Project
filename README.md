@@ -103,4 +103,86 @@ JDK (Java Development Kit): The JDK is the full-featured software development ki
 In simple terms: JDK = JRE + Development Tools, and JRE = JVM + Core Libraries.
 
 
+
+
+Usage and Sample Data
+This section provides a brief look at how to interact with the CCRM application via the command line and the format for the data files used for import operations.
+
+Sample CLI Interaction 📝
+The application is menu-driven. You interact by entering the number corresponding to your desired action.
+
+Welcome to the Campus Course & Records Manager (CCRM)!
+
+Please select an option:
+1. Manage Students
+2. Manage Courses
+3. File Operations (Import/Export)
+4. Exit
+> 1
+
+--- Student Management ---
+1. Add New Student
+2. List All Students
+3. Find Student by Registration Number
+4. Back to Main Menu
+> 1
+
+Enter Student ID: S101
+Enter Full Name: Priya Sharma
+Enter Email: priya.s@example.com
+Enter Date of Birth (YYYY-MM-DD): 2004-08-15
+Enter Registration Number: R2025001
+Student 'Priya Sharma' added successfully!
+
+> 4
+
+Please select an option:
+1. Manage Students
+2. Manage Courses
+3. File Operations (Import/Export)
+4. Exit
+> 3
+
+--- File Operations ---
+1. Import Students from CSV
+2. Import Courses from CSV
+3. Export All Data
+4. Create Backup
+5. Back to Main Menu
+> 1
+Attempting to import from 'data/students.csv'...
+Import successful. 2 new students added.
+Sample Data Files 
+The application can import data from simple, comma-separated value (.csv) files. These files should be placed in a 
+
+test-data folder in the project root. The expected format for each file is described below.
+
+students.csv
+This file contains student records. Each line represents one student with the following comma-separated fields: 
+
+ID, Registration Number, Full Name, Email, and Date of Birth.
+
+
+
+Example students.csv:
+
+Code snippet
+
+S001,R2025001,Alice Johnson,alice.j@example.com,2003-05-10
+S002,R2025002,Bob Williams,bob.w@example.com,2004-02-20
+S003,R2025003,Charlie Brown,charlie.b@example.com,2003-09-30
+courses.csv
+This file contains course records. Each line represents one course with the following comma-separated fields: 
+
+Course Code, Title, Credits, Department, and Semester.
+
+
+Example courses.csv:
+
+Code snippet
+
+CS101,Introduction to Programming,3,Computer Science,FALL
+MA203,Advanced Calculus,4,Mathematics,FALL
+PH105,Classical Mechanics,3,Physics,SPRING
+
 	
