@@ -338,5 +338,139 @@ CS101,Introduction to Programming,3,Computer Science,FALL
 MA203,Advanced Calculus,4,Mathematics,FALL
 PH105,Classical Mechanics,3,Physics,SPRING
 
+
+
+
+JDK Installation
+•	Search oracle java on google.
+
+<img width="940" height="479" alt="image" src="https://github.com/user-attachments/assets/433d6d29-ec81-41aa-97cf-eb7d7e68a979" />
+
+ 
+
+•	Got to the official site and click on download java.
+ <img width="940" height="470" alt="image" src="https://github.com/user-attachments/assets/28a885eb-3ab3-4838-afdb-860feedfb597" />
+
+
+
+
+
+•	Select JDK 24 from top left and choose widows
+<img width="940" height="481" alt="image" src="https://github.com/user-attachments/assets/b3585a4d-4223-49ce-a083-0d7104a86f5c" />
+
+ 
+
+•	Press on any download link.
+
+
+•	Run the installer, press next.
+ <img width="940" height="479" alt="image" src="https://github.com/user-attachments/assets/3c140e46-bd3b-401b-844a-d758bce30c7a" />
+
+
+
+
+
+•	Set the installation directory, then press next.
+ <img width="940" height="470" alt="image" src="https://github.com/user-attachments/assets/c8e25873-84d5-46b1-9d97-eeab48925652" />
+
+
+
+•	Let it install.
+<img width="940" height="486" alt="image" src="https://github.com/user-attachments/assets/c09048ec-2beb-4b26-bdd0-bd346dd6a9c2" />
+
+ 
+
+
+•	Copy the directory c:/program files/java/jdk-24/bin and paste to environment variables.
+
+<img width="940" height="474" alt="image" src="https://github.com/user-attachments/assets/28a48688-4853-475e-b96d-5da61cc78a88" />
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eclipse installation
+
+•	Search eclipse on google and go to the official site
+<img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/f092fd0c-60dc-4689-8242-f77646301048" />
+
+ 
+
+•	Go to official site then press on download.
+
+ <img width="940" height="471" alt="image" src="https://github.com/user-attachments/assets/638918c0-c9e9-4c8f-afa4-e6a334e41117" />
+
+
+
+•	Press on download button
+<img width="940" height="473" alt="image" src="https://github.com/user-attachments/assets/a5c89df1-4621-41c9-8ed6-6ab75ce88ad3" />
+
+ 
+
+•	Again press download and your download should begin.
+
+ <img width="940" height="473" alt="image" src="https://github.com/user-attachments/assets/c1ade70f-8b35-47e3-a8b8-c3bd6872b561" />
+
+
+
+
+
+
+•	Run the installer file
+<img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/91a3f8e9-3f0b-4f3e-ae42-8fd13d7a9a74" />
+
+ 
+
+
+•	Select eclipse IDE for java developer
+<img width="940" height="469" alt="image" src="https://github.com/user-attachments/assets/219d8178-64a2-4b44-96bb-f733746d6a07" />
+
+ 
+
+
+
+
+•	Press on install
+<img width="940" height="475" alt="image" src="https://github.com/user-attachments/assets/451bc68a-a6d5-4302-a19e-1fe9e25d975c" />
+
+ 
+
+
+•	Press accept now.
+
+ 
+<img width="940" height="474" alt="image" src="https://github.com/user-attachments/assets/1ef5b043-0e47-4d13-854a-2c683518a5b8" />
+
+
+
+
+•	Add your workspace directory where all your java projects will be saved and press launch.
+
+
+<img width="940" height="472" alt="image" src="https://github.com/user-attachments/assets/4d89ef07-5c10-4446-9269-ee2d9bef24d1" />
+
+ 
+
+
+•	Eclipse is installed.
+ 
+
+<img width="940" height="466" alt="image" src="https://github.com/user-attachments/assets/71f31fec-fefd-4987-8aa0-6c5f525e6b7b" />
+
 	
 >>>>>>> b9425a2ddb06083c6bf5ed3d07b34c56e3df7b2e
